@@ -1,15 +1,5 @@
 # 📊 Agent Performance & Dialing Efficiency (Outbound Contact Center)
 
-## Business Context
-
-This project is based on a real operational assessment scenario using anonymized outbound call center data provided as a business case evaluation.
-
-The objective was to evaluate agent performance and determine whether observed performance differences were caused by individual effectiveness or operational conditions within the dialing process.
-
-The dataset includes outbound call activity and recorded customer outcomes. The business goal was to understand how efficiently agents were reaching customers, how performance should be measured, and what operational changes could improve results without increasing staffing or call volume.
-
-The analysis was conducted as if supporting an operations or workforce management team responsible for agent evaluation and dialing strategy.
-
 
 ## Executive Summary
 
